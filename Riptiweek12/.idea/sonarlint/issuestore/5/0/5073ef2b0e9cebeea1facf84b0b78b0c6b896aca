@@ -1,0 +1,32 @@
+
+€
+java:S1192"^Define a constant instead of duplicating this literal "//div[@class='page-title']/h1" 7 times.(»ñ‡üüÿÿÿÿ8““¼Á1
+b
+java:S1854"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8«““¼Á1
+S
+java:S1481"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8«““¼Á1
+]	java:S125%"<This block of commented-out lines of code should be removed.(ëÎêëùÿÿÿÿ8¬““¼Á1
+b
+java:S1854*"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8¬““¼Á1
+S
+java:S1481*"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8­““¼Á1
+b
+java:S18543"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8­““¼Á1
+S
+java:S14813"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8­““¼Á1
+b
+java:S1854<"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8®““¼Á1
+S
+java:S1481<"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8°““¼Á1
+b
+java:S1854D"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8°““¼Á1
+S
+java:S1481D"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8±““¼Á1
+b
+java:S1854M"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8±““¼Á1
+S
+java:S1481M"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8²““¼Á1
+b
+java:S1854T"@Remove this useless assignment to local variable "actualResult".(»ñ‡üüÿÿÿÿ8„œ¼Á1
+S
+java:S1481T"1Remove this unused "actualResult" local variable.(»ñ‡üüÿÿÿÿ8„œ¼Á1

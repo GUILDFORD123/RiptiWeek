@@ -1,0 +1,8 @@
+
+g
+java:S1192"JDefine a constant instead of duplicating this literal "ico-login" 3 times.(îÄõÛ8âê‡¿Á1
+b
+java:S1854@"@Remove this useless assignment to local variable "actualResult".(ûËáŒşÿÿÿÿ8ñê‡¿Á1
+S
+java:S1481@"1Remove this unused "actualResult" local variable.(ûËáŒşÿÿÿÿ8óê‡¿Á1
+]	java:S125O"<This block of commented-out lines of code should be removed.(ëÎêëùÿÿÿÿ8óê‡¿Á1

@@ -1,0 +1,7 @@
+
+c
+java:S1854"ARemove this useless assignment to local variable "actualResult1".(¯éÍ—øÿÿÿÿ8¢¥ÌÛÁ1
+T
+java:S1481"2Remove this unused "actualResult1" local variable.(¯éÍ—øÿÿÿÿ8¤¥ÌÛÁ1
+G	java:S106"+Replace this use of System.out by a logger.(Ö˜½8¤¥ÌÛÁ1
+L	java:S106+"+Replace this use of System.out by a logger.(™Íµıÿÿÿÿ8¦¥ÌÛÁ1
